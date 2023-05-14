@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PRAVEENAPOTHI
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning B.E Computer Science & Engineering
--
--
+- 🌱 I’m currently pursuing B.E Computer Science & Engineering
+
+
 
 <!---
 PRAVEENAPOTHI/PRAVEENAPOTHI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
