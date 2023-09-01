@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @PRAVEENAPOTHI
-- 👀 I’m interested in Coding
-- 🌱 I’m currently pursuing B.E Computer Science & Engineering
+- 👀 Software Developer
+- 🌱 Eat code explore
+- TRY...!!!!! 
 
 
 
